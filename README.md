@@ -5,7 +5,7 @@ Use Case
 Charging time/Session Duration Prediction
 Energy consumption/EnergyLoad Prediction
 
-Data have been collected from a large housing cooperative in Norway, with 1,113 apartments and 2,321 residents. A new infrastructure for EV charging was installed from December 2018. From December 2018 to January 2020, charging sessions were registered by 97 user IDs; 82 of these IDs appeared to be still active at the end of the period. In the data provided with this article, Central European Time (CET) zone is used
+Data have been collected from a large housing cooperative in Norway, with 1,113 apartments and 2,321 residents. A new infrastructure for EV charging was installed from December 2018 to January 2020, charging sessions were registered by 97 user IDs; 82 of these IDs appeared to be still active at the end of the period. In the data provided with this article, Central European Time (CET) zone is used
 
 Dataset 1: EV charging reports
 The CSV file “Dataset 1” describes 6,878 individual charging sessions, registered by 97 user
